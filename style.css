@@ -1,0 +1,42 @@
+.head{
+    text-align:center;
+    font-weight : 400;
+
+    letter-spacing:3px;
+}
+
+.div-link{
+    padding:20%;
+    padding-left:20%;
+    padding-top:2%;
+    padding-bottom:1%;
+    padding-right:20%;
+}
+.logo{
+    border-radius: 200px;
+}
+.logo-para{
+    border-radius: 200px;
+}
+.a-link{
+    text-decoration:none;
+    color:white;
+    background-color: blue;
+    padding:20px 0;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:1px;
+    max-width:590px;
+    display:block;
+    text-align:center;
+    margin-bottom:2%;
+}
+.a-link:hover{
+      color:blue;
+      background-color: white;
+      border:2px solid ;
+      border-color:blue;
+} 
+.copyright{
+    text-align:center;
+}
